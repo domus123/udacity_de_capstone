@@ -13,6 +13,7 @@
   * data_etl.py: Python pipeline and modules are all here
   * main.py: main function to be runned 
   * requirements.txt: python requirements
+  * .config: Configuration file, used for giving PATHS and credentials when needed
 
 
 ## Data Files 
