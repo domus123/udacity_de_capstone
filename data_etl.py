@@ -102,7 +102,6 @@ def pipeline():
     output_machine_learning = parser['PATH']['OUTPUT_PATH']
     save_training_data(data, output_machine_learning)
 
-pipeline()
     
 
 
